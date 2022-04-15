@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 ## ✉️ :
 
-
 <p align="center">
  <a href="https://www.linkedin.com/in/kanchan-bartwal-1ba09a209/">
 </p>
