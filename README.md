@@ -18,10 +18,4 @@ Here are some ideas to get you started:
  https://www.linkedin.com/in/kanchan-bartwal-1ba09a209/
 -->
 
-## ✉️ :
-
-<p align="center">
- <a href="https://www.linkedin.com/in/kanchan-bartwal-1ba09a209/">
-</p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kanchan-Bartwal)](https://github.com/ryo-ma/github-profile-trophy)
