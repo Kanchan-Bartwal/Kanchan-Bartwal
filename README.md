@@ -27,5 +27,7 @@ Here are some ideas to get you started:
  <a href="mailto:kanchanbartwal10@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
-<br />
+<br/>
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kanchan-Bartwal)](https://github.com/ryo-ma/github-profile-trophy)
