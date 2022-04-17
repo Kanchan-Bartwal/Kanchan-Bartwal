@@ -15,6 +15,7 @@
 
 ### Other platforms where I'm active:
 <p>
+ <a href="https://leetcode.com/Kanchan-Bartwal/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/Kanchan-Bartwal/Kanchan-Bartwal/blob/main/socials/instagram.png" alt="Leetcode" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.instagram.com/kanchan.bartwal/?utm_medium=copy_link" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/Kanchan-Bartwal/Kanchan-Bartwal/blob/main/socials/instagram.png" alt="Instagram" height="40" style="vertical-align:top; margin:4px"> </a>
 </p>
 
