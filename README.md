@@ -11,6 +11,11 @@
  <a href="https://www.linkedin.com/in/kanchan-bartwal-1ba09a209/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:kanchanbartwal10@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanchan-Bartwal&theme=tokyonight)
+<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kanchan-Bartwal)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **Kanchan-Bartwal/Kanchan-Bartwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,7 +32,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanchan-Bartwal&theme=tokyonight)
+
 
 
 
@@ -35,4 +40,4 @@ Here are some ideas to get you started:
 <br/>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kanchan-Bartwal)](https://github.com/ryo-ma/github-profile-trophy)
+
