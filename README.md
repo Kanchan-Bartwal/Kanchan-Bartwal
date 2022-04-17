@@ -1,4 +1,4 @@
-
+![Visitor Count](https://profile-counter.glitch.me/{Kanchan-Bartwal}/count.svg)
 
 ### Hey there👋
 ### I am Kanchan Bartwal
