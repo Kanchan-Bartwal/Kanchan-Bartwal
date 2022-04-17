@@ -7,9 +7,11 @@
  
 ### Connect with me:
 <p>
- <a href="https://kanchan-developer-designer.herokuapp.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" height="40" style="vertical-align:top; margin:4px"> </a>
+ 
  <a href="https://www.linkedin.com/in/kanchan-bartwal-1ba09a209/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/Kanchan-Bartwal/Kanchan-Bartwal/blob/main/socials/linkedin.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:kanchanbartwal10@gmail.com"> <img src="https://github.com/Kanchan-Bartwal/Kanchan-Bartwal/blob/main/socials/email.png" alt="Email" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://kanchan-developer-designer.herokuapp.com/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/Kanchan-Bartwal/Kanchan-Bartwal/blob/main/socials/web-search-engine.png" alt="Website" height="40" style="vertical-align:top; margin:4px"> </a>
+ 
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanchan-Bartwal&theme=tokyonight)
