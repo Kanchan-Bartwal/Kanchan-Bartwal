@@ -2,8 +2,10 @@
 
 # Hello👋, I am Kanchan Bartwal.
 
+- 📝 I love to code.
 - 💬 Ask me about  <strong>C, C++, Java, HTML, CSS</strong>
 - 📫 How to reach me: Mail me on <a>kanchanbartwal10@gmail.com</a>
+
 #
  ### :hammer_and_wrench: Languages and Tools :
  <div>
